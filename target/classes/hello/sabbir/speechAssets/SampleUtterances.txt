@@ -1,0 +1,7 @@
+HelloSabbirIntent say hello
+HelloSabbirIntent say hello Sabbir
+HelloSabbirIntent hello
+HelloSabbirIntent say hi
+HelloSabbirIntent say hi Sabbir
+HelloSabbirIntent hi
+HelloSabbirIntent how are you
